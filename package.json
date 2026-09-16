@@ -1,0 +1,8 @@
+{
+  "name": "bryan-johnson-profound-worker",
+  "private": true,
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20260916.1",
+    "typescript": "^7.0.2"
+  }
+}
